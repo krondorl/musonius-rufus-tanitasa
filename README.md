@@ -1,23 +1,26 @@
 # Musonius Rufus tanítása
 ## A római Szókratész
 
-Ebben a műben egy közvetlen, modern fordítást készítettem a következőből:
+Eredeti mű:
 
-Volume X of the Yale Classical Studies,  
+**Lectures and Fragments  
+ACora E. Lutz.**  
+Volume X of the  
+**Yale Classical Studies**,  
 Yale University Press,  
 1947  
 
 Forrás: [The Stoic Life](https://sites.google.com/site/thestoiclife/the_teachers/musonius-rufus/lectures "The Stoic Life")
 
-A fordítás 2018-ban történt.
-
-Fordította: Burucs Ádám.
+Fordította: Burucs Ádám. A fordítás 2018-ban történt, angolról.
 
 Licenc: [Creative Commons, Nevezd meg, Ne add el 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ----------
 
-Caius Musonius Rufus ókori, római Sztoikus filozófus volt. Született i.sz. 25-ben Volsinii-ben, elhunyt i.sz. 95-ben. Epiktétosz volt a leghíresebb tanítványa. Nero uralkodása alatt Rómában tanított filozófiát, majd az uralkodó száműzte őt Gyaros szigetére. Vespasianus uralkodása alatt visszatérhetett Rómába.
+Bevezető
+
+[Caius Musonius Rufus](https://hu.wikipedia.org/wiki/Caius_Musonius_Rufus) ókori, római Sztoikus filozófus volt. Született i.sz. 25-ben Volsinii-ben, elhunyt i.sz. 95-ben. [Epiktétosz](https://hu.wikipedia.org/wiki/Epikt%C3%A9tosz) volt a leghíresebb tanítványa. Nero uralkodása alatt Rómában tanított filozófiát, majd az uralkodó száműzte őt Gyaros szigetére. Vespasianus uralkodása alatt visszatérhetett Rómába.
 
 ----------
 
