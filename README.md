@@ -60,15 +60,12 @@ Tartalomjegyzék
 
 4) Másrészről azok a tanulók, akik finomabb természetűek és jobb képzést kaptak, azok könnyebben és gyorsabban, kevesebb bizonyítékot igényelve tanulnak, hajlamosak az egészséges érvelést jóváhagyni és a gyakorlatba helyezni. Hogy ez mennyire igaz, azt könnyedén felismerjük, ha megismerünk két fiatalt, akik közül az egyik luxusban élt, a teste elpuhult, a lelke elgyengült a könnyű életmódtól, és emellett unalmas és lehangolt hajlamú; a másik pedig kicsit spártaias stílusú, nem szokott hozzá a luxushoz, önmérsékletet gyakorolt és kész hallgatni az értelmes gondolkodásra. Ha ezt a két fiatal férfit egy filozófus tanítványai közé helyezzük, hogy halálról, nehézségekről, szegénységről és hasonlókról vitázzanak, vagy hogy az élet, az élvezet és a gazdagság nem jó dolgok, el tudod képzelni, hogy mindkettő meg tudja győzni egymást a másik igazáról? Közel sem.
 
-5)
+5) Az egyik lassan és nehézkesen, ezer érv után meggyőzve talán elhiszi ezt, és itt természetesen a puhányra gondolok. A másik gyorsan és készen elfogadja az érvet, ahogy magára is tudja vonatkoztatni és nem kell neki sok bizonyítás, sem különös bánásmód. Nem épp ez a fiatal spártai fiú volt, aki Kleanthészt, a filozófust megkérdezte, hogy a nehézségek nem jó dolgok? Világossá tette, hogy jól felszerelte a természet és a képzése az erény gyakorlására ahhoz, hogy tudja, hogy az erőfeszítés közelebb van a jóhoz, mint a rosszhoz, így azt kérdezte, hogy talán az erőfeszítés nem jó, de nem is rossz? Erre Kleanthész meglepődött és csodálatát kifejezve azt mondta a fiúnak:
 
+> "Nemesvérű vagy, kedves gyermek, és a szavaid szintén nemesek."
 
-
-The one reluctantly and slowly, and fairly pried loose by a thousand arguments, will perhaps in the end give sign of assent—I mean of course the dullard. The other quickly and readily will accept the argument as cogent and relevant to himself, and will not require many proofs nor a fuller treatment. Was not just such a lad that Spartan boy who asked Cleanthes the philosopher if toil was not a good?[1] He made it plain that he was so well-endowed by nature and by training for the practice of virtue as to consider toil closer to the nature of good than of evil, in that he asked whether toil was not perchance a good, as if it were conceded that it was not an evil. Thereupon Cleanthes in surprise and admiration of the boy replied, 
-
-"Thou art of noble blood, dear child, so noble the words thou speakest."[2] 
-
-Can you doubt that such a lad would have been readily persuaded not to fear poverty nor death nor any of the things which seem terrible, and again, not to seek after wealth nor life nor pleasure?
-
+Kétségbevonnád, hogy egy ilyen embert könnyű lenne meggyőzni, hogy ne féljen a szegénységtől vagy a haláltól, vagy bármitől, ami szörnyűnek tűnik, és hogy ne gyűjtsön vagyont, sem hajhássza az élvezeteket?
 
 6)
+
+To come back to the starting point of my discussion, I repeat that it is mistaken zeal for the teacher, if he be a true philosopher, to rehearse a multitude of arguments and proofs to his pupils. He should rather touch upon each one with just measure, seek to penetrate to the very intellect of his hearer, and present persuasive arguments and such as cannot easily be refuted. But most of all his treatment should consist in showing himself not only as one who utters words which are most helpful, but as one who acts consistently with them. As for the pupil, it is his duty to attend diligently to what is said and to be on his guard lest he accept unwittingly something false. But of what he accepts as truth, his effort should not be directed toward learning numbers of proofs—far from it—but only such as are plain and lucid. Finally whatever precepts enjoined upon him he is persuaded are true, these must he follow out in his daily life. For only in this way will philosophy be of profit to anyone, if to sound teaching he adds conduct in harmony with it.
