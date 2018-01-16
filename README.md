@@ -13,6 +13,8 @@ A fordítás 2018-ban történt.
 
 Fordította: Burucs Ádám.
 
+Licenc: [Creative Commons, Nevezd meg, Ne add el 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 ----------
 
 Caius Musonius Rufus ókori, római Sztoikus filozófus volt. Született i.sz. 25-ben Volsinii-ben, elhunyt i.sz. 95-ben. Epiktétosz volt a leghíresebb tanítványa. Nero uralkodása alatt Rómában tanított filozófiát, majd az uralkodó száműzte őt Gyaros szigetére. Vespasianus uralkodása alatt visszatérhetett Rómába.
@@ -56,11 +58,17 @@ Tartalomjegyzék
 
 3) Miután ez a bizonyítás természete, ha meggondoljuk, hogy néhányaknak gyorsabban vág az esze, míg mások lassabb felfogásúak, néhányuk jobb környezetben élt, mások rosszabban, ez utóbbi lassabb felfogásúak alacsonyabb rendűek karakterben és természetben, így több bizonyítékot igényelnek és a több figyelmet kell fordítaniuk, hogy elsajátítják a tananyagot és magukévá tegyék azt, ugyanilyen módon, ha rossz fizikumú emberről van szó, és az a cél, hogy tökéletes egészséggel rendelkezzék, az nagyon gondos és hosszan tartó kezelést igényel.
 
-
-
-
-4)
+4) Másrészről azok a tanulók, akik finomabb természetűek és jobb képzést kaptak, azok könnyebben és gyorsabban, kevesebb bizonyítékot igényelve tanulnak, hajlamosak az egészséges érvelést jóváhagyni és a gyakorlatba helyezni. Hogy ez mennyire igaz, azt könnyedén felismerjük, ha megismerünk két fiatalt, akik közül az egyik luxusban élt, a teste elpuhult, a lelke elgyengült a könnyű életmódtól, és emellett unalmas és lehangolt hajlamú; a másik pedig kicsit spártaias stílusú, nem szokott hozzá a luxushoz, önmérsékletet gyakorolt és kész hallgatni az értelmes gondolkodásra. Ha ezt a két fiatal férfit egy filozófus tanítványai közé helyezzük, hogy halálról, nehézségekről, szegénységről és hasonlókról vitázzanak, vagy hogy az élet, az élvezet és a gazdagság nem jó dolgok, el tudod képzelni, hogy mindkettő meg tudja győzni egymást a másik igazáról? Közel sem.
 
 5)
+
+
+
+The one reluctantly and slowly, and fairly pried loose by a thousand arguments, will perhaps in the end give sign of assent—I mean of course the dullard. The other quickly and readily will accept the argument as cogent and relevant to himself, and will not require many proofs nor a fuller treatment. Was not just such a lad that Spartan boy who asked Cleanthes the philosopher if toil was not a good?[1] He made it plain that he was so well-endowed by nature and by training for the practice of virtue as to consider toil closer to the nature of good than of evil, in that he asked whether toil was not perchance a good, as if it were conceded that it was not an evil. Thereupon Cleanthes in surprise and admiration of the boy replied, 
+
+"Thou art of noble blood, dear child, so noble the words thou speakest."[2] 
+
+Can you doubt that such a lad would have been readily persuaded not to fear poverty nor death nor any of the things which seem terrible, and again, not to seek after wealth nor life nor pleasure?
+
 
 6)
