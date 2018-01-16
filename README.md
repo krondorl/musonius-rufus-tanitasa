@@ -21,7 +21,7 @@ Caius Musonius Rufus ókori, római Sztoikus filozófus volt. Született i.sz. 2
 
 Tartalomjegyzék
 
-1. Nem szükséges több bizonyíték egy problémára
+1. Nem szükséges több bizonyítás egy problémára
 1. Az ember természetes hajlama az erény
 1. A nőknek is kellene filozófiát tanulniuk
 1. Vajon a lánygyermekeknek ugyanazt a képzést kellene kapniuk, mint a fiúknak?
@@ -47,4 +47,8 @@ Tartalomjegyzék
 
 
 ----------
+
+## 1. Nem szükséges több bizonyítás egy problémára
+
+Egyszer, amikor a beszélgetés a bizonyításokra terelődött, például, hogy a kezdőknek a filozófia mestereiktől kell tanulniuk, hogy jártasságot szerezzenek bármiben is, amit tanulni szeretnének, Musonius azt mondta, hogy nincs értelme túl sok bizonyítást keresni az egyes esetekre, és elég csupán az, ha azok meggyőzőek és világosak. Ahogy az az orvos is, aki több gyógyszert ír fel a betegnek, kevesebb dícséretet érdemel, mint az aki csak néhány gyógyszerrel segít neki, ugyanígy a filozófus, aki sok bizonyítással tanítja a tanulóit, kevésbé hatékony, mint az, aki a cél felé irányítja őket, de csak néhány bizonyítással. És a tanuló is, minél jobb az intelligenciája, annál kevesebb bizonyítékra van szüksége, és annál hamarabb fogja jóváhagyni a következtetést, feltéve, hogy az helyénvaló. De azok, akik minden lépésnél bizonyításokat akarnak, még akkor is, ha a téma teljesen világos, vagy hosszú kifejtéseket igényelnek, amikor azt röviden is el lehet mondani, azok teljesen ostobák.
 
