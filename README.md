@@ -75,7 +75,7 @@ Tartalomjegyzék
 
 1. [Musonius] Valaha azt mondta, mindannyiunk hajlama, hogy természetes módon, hibáktól mentesen és nemesen cselekedve éljünk, és ezt nem úgy értette, hogy valaki nem képes erre, valaki meg igen, hanem hogy mindannyian így kell tegyünk. A legegyszerűbb bizonyíték erre, hogy a törvényhozók olyan szabályokat fektetnek le, hogy van, amit szabad és van, amit tilos megtenni, de senkit sem mentesít a büntetés alól, ha rosszat tesz, sem fiatalt, sem időset, sem erőset, sem gyengét, és senki egyéb mást. És mégis, ha az erény olyasmi lenne, ami nem természetes hajlamunk lenne, és nem lenne már születésünk óta a miénk, ugyanúgy mint más művészetekben, amiben jártasságot kell szerezni, és amik szintén nem mentesek a hibázás lehetőségétől, ugyanígy az élet dolgaiban is nem lenne helyénvaló a hiba elkövetése, aki nem tanult az erény cselekvésében, hiszen tudjuk, hogy az erény az egyetlen, ami mentesít bennünket a hibáktól a mindennapi élet során. 
 
-2. ...
+2. Ha például egy betegről van szó, akkor nem mást, mint az orvost tekintjük úgy, hogy nem fog hibázni a gyógyítás során, a líra használatában pedig a zenészt tekintjük gyakorlottnak, a hajó irányításánál a kapitányt, de az élet irányításában nem csak a filozófust tekintjük hibáktól mentesnek, bár úgy néz ki, hogy ő egyedül az, aki az erénnyel foglalkozik, de nem csak a filozófust, hanem minden embert nézünk itt, azokat is akik sosem foglalkoztak az erénnyel. Világos, hogy más magyarázat nincs erre, minthogy az embernek születésétől fogva hajlama van az erényre. És ez egy erős bizonyíték a természetünk jóságára nézve, hiszen mindenki akit kérdeznek önmagáról, akkor a jót mondja magáról, hogy erényes és jó ember.
 
 3. ...
 
