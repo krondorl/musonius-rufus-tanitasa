@@ -28,7 +28,7 @@ Tartalomjegyzék
 
 1. <a href="#1">Nem szükséges több bizonyítás egy problémára</a>
 1. <a href="#2">Az ember természetes hajlama az erény</a>
-1. A nőknek is kellene filozófiát tanulniuk
+1. <a href="#3">A nőknek is kellene filozófiát tanulniuk</a>
 1. Vajon a lánygyermekeknek ugyanazt a képzést kellene kapniuk, mint a fiúknak?
 1. Melyik a hatékonyabb, az elmélet vagy a gyakorlat?
 1. A gyakorlásról
@@ -80,6 +80,12 @@ Tartalomjegyzék
 3. Végy egy átlagembert, és kérdezd meg tőle, hülyének vagy okosnak tartja magát, egyik sem fogja bevallani, hogy hülye, vagy, ismét, ha megkérdezed, hogy igazságos vagy igazságtalan, egyikük sem mondja magáról, hogy igazságtalan. Ugyanígy, ha megkérdezed, hogy türelmes vagy türelmetlen, egyértelműen a türelmeset fogja vallani magáról, és végül, ha valakit megkérdezel, hogy jó vagy rossz embernek tartja magát, azt fogja mondani, hogy jónak, de egyetlen erényt vagy tanulmányt sem tudna megnevezni, ami az erkölcsre vonatkozna.
  
 4. Mi más ez, ha nem bizonyíték arra, hogy az emberi léleknek hajlama van a jóságra és nemessére, és hogy az erény magvai ott vannak mindannyiunkban? Továbbá, mivel teljesen előnyös számunkra jónak lennünk, érdekes, hogy néhányan félrevezetik önmagukat, hogy ők jók, míg mások szégyellik, hogy ők nem azok. Vajon imádkoznia kellene annak, aki nem tanulta meg a betűket, vagy zenét, vagy gimnasztikát, hogy annak mutassa magát, mint aki tudja ezeket? És bár a tettetés nem fogja megtanítani nekik ezen tantárgyakat, és egy tanárt sem tudnak megnevezni akitől tanultak volna... nos akkor miért állítják, hogy erényesek? Ez azért van, mert egyik felsorolt tantárgy sem természetes az embernek, és senki sem született természetes szakértelemmel ezekben [bár az erényes természetre való hajlam viszont meg alapvető adottság mindenkinek].
+
+## 3. <a id="3"></a> A nőknek is kellene filozófiát tanulniuk
+
+1. Amikor valaki megkérdezte, hogy a nőknek is kellene filozófiát tanulniuk, elkezdte előadni azt az érvet, hogy miért is kellene, mégpedig a következő módon. A nők, a férfiakhoz hasonlóan az istenektől kapták a logikus gondolkodás képességét, amit a mindennapok során használunk, hogy eldöntsük egy dolog jó vagy rossz, igaz, vagy hamis. Ehhez hasonlóan a nőknek ugyanazok az érzékei, mint a férfiaknak, név szerint, látás, hallás, szaglás és a többi. Valamint mindkét nemnek megvannak a megfelelő testrészük [az alapvető funkciókhoz] és egyiküknek sincs több, mint a másiknak. Továbbá nemcsak a férfiaknak, de a nőknek is, természetes hajlama van az erényre és a képessége annak megszerzésére, és így a nők természete nem kevesebb mint a férfiaké, hogy jót és igazat cselekedjenek és elutasítsák ezek ellentétét.
+
+2. Ha ez igaz, akkor milyen logika mentén lehetne valaha megfelelő a férfinakak, hogy meggondolják, hogyan élhetnek jó életet, ami pontosan a filozófia tanulása lenne, tehát ez hogy is lehetne téves a nők számára? Lehet, hogy a férfiaknak megfelelő, de a nőknek nem? Vizsgáljuk meg részleteiben annak minőségét, hogy lehetne a nők számára megfelelő egy jó életet vezetni, és arra jutunk, hogy természetes módon a filozófia tanulásában van a megoldás.
 
 ## 13. <a id="13"></a> Mi a házasság legfontosabb célja? (1. rész)
 
