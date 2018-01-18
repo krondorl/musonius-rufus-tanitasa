@@ -27,7 +27,7 @@ Bevezető
 Tartalomjegyzék
 
 1. <a href="#1">Nem szükséges több bizonyítás egy problémára</a>
-1. Az ember természetes hajlama az erény
+1. <a href="#2">Az ember természetes hajlama az erény</a>
 1. A nőknek is kellene filozófiát tanulniuk
 1. Vajon a lánygyermekeknek ugyanazt a képzést kellene kapniuk, mint a fiúknak?
 1. Melyik a hatékonyabb, az elmélet vagy a gyakorlat?
@@ -70,6 +70,16 @@ Tartalomjegyzék
     Kétségbevonnád, hogy egy ilyen embert könnyű lenne meggyőzni, hogy ne féljen a szegénységtől vagy a haláltól, vagy bármitől, ami szörnyűnek tűnik, és hogy ne gyűjtsön vagyont, sem hajhássza az élvezeteket?
 
 6. Hogy visszatérjek az előadásom elejére, megismétlem, hogy az egy hiba, ha a tanár valóban filozófus és túl sok érvet és bizonyítást mutat be a tanulóinak. Ezek helyett mindegyik esetben olyan bizonyítást érdemes alkalmaznia, amelyik a leginkább hat a tanulói értelmére, és meggyőző érvet mutat be, amit nem tudnak könnyen megcáfolni. De mindenek felett a tanításában meg kell mutatnia, hogy nem csak hasznosan beszél, de azokkal összhangban is cselekszik. A tanulónak pedig kötelességének kell tekintenie, hogy szorgalmasan figyeljen és résen legyen, nehogy elfogadjon valami hamisat. De azokból, amiket igaznak fogad el, az erőfeszítésében nem szabad sok bizonyítást megtanulnia, csak azokat, amik egyszerűek és világosak. Legvégül pedig bármilyen tanulmányt, amit igaznak fogad el, azt a mindennapjaiban be kell tartania és követnie. Csak ezen a módon lesz nyereséges a filozófia bárkinek is, ha a helyes tanítással összhangban él.
+
+## 2. <a id="2"></a> Az ember természetes hajlama az erény
+
+1. [Musonius] Valaha azt mondta, mindannyiunk hajlama, hogy természetes módon, hibáktól mentesen és nemesen cselekedve éljünk, és ezt nem úgy értette, hogy valaki nem képes erre, valaki meg igen, hanem hogy mindannyian így kell tegyünk. A legegyszerűbb bizonyíték erre, hogy a törvényhozók olyan szabályokat fektetnek le, hogy van, amit szabad és van, amit tilos megtenni, de senkit sem mentesít a büntetés alól, ha rosszat tesz, sem fiatalt, sem időset, sem erőset, sem gyengét, és senki egyéb mást. És mégis, ha az erény olyasmi lenne, ami nem természetes hajlamunk lenne, és nem lenne már születésünk óta a miénk, ugyanúgy mint más művészetekben, amiben jártasságot kell szerezni, és amik szintén nem mentesek a hibázás lehetőségétől, ugyanígy az élet dolgaiban is nem lenne helyénvaló a hiba elkövetése, aki nem tanult az erény cselekvésében, hiszen tudjuk, hogy az erény az egyetlen, ami mentesít bennünket a hibáktól a mindennapi élet során. 
+
+2. ...
+
+3. ...
+
+4. ...
 
 ## 13. <a id="13"></a> Mi a házasság legfontosabb célja? (1. rész)
 
