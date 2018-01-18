@@ -50,7 +50,6 @@ Tartalomjegyzék
 1. Bútorok és tárgyak használata
 1. <a href="#23">A haj vágásáról</a>
 
-
 ----------
 
 ## 1. <a id="1"></a> Nem szükséges több bizonyítás egy problémára
