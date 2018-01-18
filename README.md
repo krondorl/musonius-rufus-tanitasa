@@ -77,7 +77,8 @@ Tartalomjegyzék
 
 2. Ha például egy betegről van szó, akkor nem mást, mint az orvost tekintjük úgy, hogy nem fog hibázni a gyógyítás során, a líra használatában pedig a zenészt tekintjük gyakorlottnak, a hajó irányításánál a kapitányt, de az élet irányításában nem csak a filozófust tekintjük hibáktól mentesnek, bár úgy néz ki, hogy ő egyedül az, aki az erénnyel foglalkozik, de nem csak a filozófust, hanem minden embert nézünk itt, azokat is akik sosem foglalkoztak az erénnyel. Világos, hogy más magyarázat nincs erre, minthogy az embernek születésétől fogva hajlama van az erényre. És ez egy erős bizonyíték a természetünk jóságára nézve, hiszen mindenki akit kérdeznek önmagáról, akkor a jót mondja magáról, hogy erényes és jó ember.
 
-3. ...
+3. Végy egy átlagembert, és kérdezd meg tőle, hülyének vagy okosnak tartja magát, egyik sem fogja bevallani, hogy hülye, vagy, ismét, ha megkérdezed, hogy igazságos vagy igazságtalan, egyikük sem mondja magáról, hogy igazságtalan. Ugyanígy, ha megkérdezed, hogy türelmes vagy türelmetlen, egyértelműen a türelmeset fogja vallani magáról, és végül, ha valakit megkérdezel, hogy jó vagy rossz embernek tartja magát, azt fogja mondani, hogy jónak, de egyetlen erényt vagy tanulmányt sem tudna megnevezni, ami az erkölcsre vonatkozna.
+ 
 
 4. ...
 
