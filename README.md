@@ -86,6 +86,20 @@ Tartalomjegyzék
 
 2. Ha ez igaz, akkor milyen logika mentén lehetne valaha megfelelő a férfinakak, hogy meggondolják, hogyan élhetnek jó életet, ami pontosan a filozófia tanulása lenne, tehát ez hogy is lehetne téves a nők számára? Lehet, hogy a férfiaknak megfelelő, de a nőknek nem? Vizsgáljuk meg részleteiben annak minőségét, hogy lehetne a nők számára megfelelő egy jó életet vezetni, és arra jutunk, hogy természetes módon a filozófia tanulásában van a megoldás.
 
+3. Először is, egy nőnek jó háziasszonynak kell lennie, ami azt jelenti, hogy gondosan vigyáz a házán belüli dolgokra és irányítja a szolgákat. Azonban nem értek azzal egyet, hogy ezek azok a dolgok, amik különösképpen azokban a nőkben lenne jelen, akik filozófiát tanulnak, hiszen nyilván mindegyikük életének része ez, és a filozófia semmi más, mint tudás az életről és a filozófus, ahogy Szókratész mondta, Homéroszt idézve, állandóan vizsgálódva az életben a következőt állította:
+
+    > "Bármi jó és rossz az otthonodban munkálkodik"
+
+    De mindenek felett egy nőnek szűziesnek kell lennie és önuralommal kell rendelkeznie; kerülnie kell a törvénytelen szerelmet, mértéket kell tartania más élvezetekben is, nem szabad a vágyainak szolgájának lennie, nem szabad vitatkozósnak lennie, túl sokat költenie, vagy feltűnően öltözködnie. Ezek az erényes nő tulajdonságai és még ezeket adnám hozzá: legyen türelmes, ne győzze le a gyász és képes legyen irányítani bármilyen érzelemre adott reakcióját.
+
+4.
+
+5.
+
+6.
+
+7.
+
 ## 13. <a id="13"></a> Mi a házasság legfontosabb célja? (1. rész)
 
 [A házasság végső célja egy életközösség, amelyik gyereket nemz.] [Musonius] Azt mondta, a férjnek és feleségnek össze kell fognia, hogy gyereket nemzzenek és együtt élve közösnek tekintsenek mindent, semmiféle személyes dologgal, beleértve a saját testüket is. Egy emberi lény születése, ami egy házas szövetségből származik, mindenképpen csodálatra méltó, de nem elégséges a férj és feleség megfelelő kapcsolatához, ahogyan ez az állatok esetében is történik. Ahol ez a szeretet egymás iránt tökéletes, és mindkét fél megosztja azt egymással, megpróbálnak egymáson túltenni odaadásban, ott ez a házasság ideális és érdemes az irigységre, mivel ez a szövetség csodálatos. De ha bármelyik fél csak a saját érdekét nézi és elhanyagolja a másikét, vagy, ami még rosszabb, az egyik mindig másfele tekinget, annak ellenére hogy együttélnek, és nem tudnak egyetérteni a dolgokban, akkor a szövetség katasztrófára van ítélve, és hiába élnek együtt, a közös érdekük sérül, és végül vagy elválnak útjaik, vagy rosszabbul szenvednek majd, mintha egyedül lennének.
