@@ -3,7 +3,9 @@
 
 Eredeti mű:
 
-**Lectures and Fragments  
+**MUSONIUS RUFUS  
+The Roman Socrates  
+Lectures and Fragments  
 ACora E. Lutz.**  
 Volume X of the  
 **Yale Classical Studies**,  
@@ -92,13 +94,14 @@ Tartalomjegyzék
 
     De mindenek felett egy nőnek szűziesnek kell lennie és önuralommal kell rendelkeznie; kerülnie kell a törvénytelen szerelmet, mértéket kell tartania más élvezetekben is, nem szabad a vágyainak szolgájának lennie, nem szabad vitatkozósnak lennie, túl sokat költenie, vagy feltűnően öltözködnie. Ezek az erényes nő tulajdonságai és még ezeket adnám hozzá: legyen türelmes, ne győzze le a gyász és képes legyen irányítani bármilyen érzelemre adott reakcióját.
 
-4.
+4. Na most, ezek azok a dolok, amiket a filozófia tanít, és az a személy, aki megtanulta ezeket, és gyakorolja ezeket, nekem úgy tűnik, hogy rendezett és megfelelő karakterű, akár férfi, akár nő. Nos, ez áll az önmérsékletre is. Ha az igazság erényét nézzük, a nő, aki filozófiát tanul, nem ő lenne igazságos, hibátlan élettárs, szimpatikus segítő, fáradhatatlan védelmezője a férjének és gyerekeinek, nem ő lenne az, aki teljesen mentes a kapzsiságtól és arroganciától? És ki más lenne jobb, mint a nő, aki képzett filozófiából, és ő, aki szükségszerűen az, ha valóban elsajátította a filozófiát, vajon nem ő lenne az, aki rosszabbnak tartaná a rosszat elkövetni, mint elszenvedni azt, és aki azt tartaná, hogy jobb azt elszenvedni, mint igazságtalan előnyre szert tenni? Továbbá, ki lenne jobb, mint ő, aki jobban szeretné gyermekeit, mint a saját életét? És melyik nő lenne jobb nála?  
 
-5.
 
-6.
+5. Most pedig a bátorság erényét nézzük: bizonyára elvárt, hogy a képzett nő bátrabb legyen a képzetlennél, és bátrabb, aki filozófiát tanult, mint aki nem tanult; és bizonyára nem fog semmi szégyenteljeset tenni, akár mert félne a haláltól, vagy mert nem tudna szembenézni a nehézségekkel, és nem fogja megfélemlíteni senki, akár az nemes származású lenne, vagy hatalmas, vagy gazdag, még akkor se, ha a város zsarnokáról lenne szó. Az ilyen nő valójában megtanította magát arra, hogy tudatosan gondolkodjon, és ne gondolja a halált rossznak, az életet egyértelműen jónak, és hogy ne kerülje a nehézségeket, és sose keresse a könnyebb utat vagy a hanyagságot. Így lehet az, hogy az ilyen nő feltételezhetően energikus, erős, ha fájdalmat kell elviselni, készen áll, hogy a gyermekeit a melléből táplálja, a férjét a két kezével kiszolgálja, és hajlandó megtenni azokat a dolgokat, amiket más szolgai munkának tartana.
 
-7.
+6. Nem lenne egy ilyen nő nagyszerű segítség a házastársának, ékessége a rokonoknak, és egy jó példa mindazoknak, akik ismerik őt? Igen, de biztosítlak róla, hogy néhányan azt mondják majd, hogy a nők, akik filozofálnak, azok leginkább arrogánsak és túlzottan magabiztosak, és el képesek hagyni otthonukat, hogy azokhoz társuljanak, akik beszédet gyakorolnak, úgy beszélnek, mint a szofisták, szillogizmusokat elemeznek, amikor otthon kéne ülniük és dolgozniuk. Nem várom el, hogy egy nő, aki filozófiát tanul, kibújjon a feladatai alól, de azt fenntartom, hogy a beszélgetéseit a filozófia gyakorlati alkalmazásához igazítsa.
+
+7. Ahogy a gyógyszerek tudományában sincs érték, hacsak nem gyógyításra használják, ugyanígy, ha a filozófus logikát tanít, annak sincs értelme, hacsak  az ember lelkének erényét nem táplálja. Mindenek felett, meg kell vizsgálnunk azokat az alapszabályokat, amik szerint mit kell követniük a nőknek, ha filozófiát tanulnak; meg kell értenünk, hogy a képzés, ami visszafogottságra tanít az egyértelműen a legnagyszerűbb jó-e, ha túlzottan magabiztossá teheti-e őket; ha a tanulmány, ami a legnagyszerűbb önmérsékletre vezet rá, figyelmetlenné teheti-e őket; ha valami, ami türelmetlenséghez vezet, mint a legnagyobb gonoszság, akkor az nem tanít-e önmérsékletet; ha valami, ami a háztartás irányításának képességét jelképezi, mint erény, az nem vezet-e ahhoz, hogy rosszul tegyék-e ezt? Végül pedig, a filozófia tanításai azt tanácsolják a nőnek, hogy legyen elégedett a helyzetével és sajátkezűleg dolgozzon a tennivalóin.
 
 ## 13. <a id="13"></a> Mi a házasság legfontosabb célja? (1. rész)
 
