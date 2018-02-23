@@ -109,6 +109,12 @@ Tartalomjegyzék
 
 ## 14. <a id="14"></a> Mi a házasság legfontosabb célja? (2. rész)
 
+## 15. <a id="15"></a> Hátrány-e a házasság a filozófia tanulásában?
+
+## 16. <a id="16"></a> Fel kell-e nevelni minden újszülöttet?
+
+## 17. <a id="17"></a> Minden esetben engedelmeskedni kell-e a szülőknek?
+
 ## 18. <a id="18"></a> Mi a legjobb lelki táplálék az öregkorhoz?
 
 ## 19. <a id="19"></a> Az ételről (1. rész)
