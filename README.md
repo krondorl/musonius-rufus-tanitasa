@@ -31,25 +31,25 @@ Tartalomjegyzék
 1. <a href="#1">Nem szükséges több bizonyítás egy problémára</a>
 1. <a href="#2">Az ember természetes hajlama az erény</a>
 1. <a href="#3">A nőknek is kellene filozófiát tanulniuk</a>
-1. Vajon a lánygyermekeknek ugyanazt a képzést kellene kapniuk, mint a fiúknak?
-1. Melyik a hatékonyabb, az elmélet vagy a gyakorlat?
-1. A gyakorlásról
-1. A nehézségek megvetéséről
-1. A királyoknak is kellene filozófiát tanulniuk
-1. A száműzetés nem egy gonosz dolog
-1. Vádat kell-e emelnie egy filozófusnak, ha sérelem éri?
-1. Milyen megélhetés a megfelelő egy filozófusnak?
-1. A szexuális élvezetekről
+1. <a href="#4">Vajon a lánygyermekeknek ugyanazt a képzést kellene kapniuk, mint a fiúknak?</a>
+1. <a href="#5">Melyik a hatékonyabb, az elmélet vagy a gyakorlat?</a>
+1. <a href="#6">A gyakorlásról</a>
+1. <a href="#7">A nehézségek megvetéséről</a>
+1. <a href="#8">A királyoknak is kellene filozófiát tanulniuk</a>
+1. <a href="#9">A száműzetés nem egy gonosz dolog</a>
+1. <a href="#10">Vádat kell-e emelnie egy filozófusnak, ha sérelem éri?</a>
+1. <a href="#11">Milyen megélhetés a megfelelő egy filozófusnak?</a>
+1. <a href="#12">A szexuális élvezetekről</a>
 1. <a href="#13">Mi a házasság legfontosabb célja? (1. rész)</a>
 1. <a href="#14">Mi a házasság legfontosabb célja? (2. rész)</a>
-1. Hátrány-e a házasság a filozófia tanulásában?
-1. Fel kell-e nevelni minden újszülöttet?
-1. Minden esetben engedelmeskedni kell-e a szülőknek?
-1. Mi a legjobb lelki táplálék az öregkorhoz?
-1. Az ételről (1. rész) 
-1. Az ételről (2. rész)
-1. Öltözködésről és lakásról
-1. Bútorok és tárgyak használata
+1. <a href="#15">Hátrány-e a házasság a filozófia tanulásában?</a>
+1. <a href="#16">Fel kell-e nevelni minden újszülöttet?</a>
+1. <a href="#17">Minden esetben engedelmeskedni kell-e a szülőknek?</a>
+1. <a href="#18">Mi a legjobb lelki táplálék az öregkorhoz?</a>
+1. <a href="#19">Az ételről (1. rész)</a>
+1. <a href="#20">Az ételről (2. rész)</a>
+1. <a href="#21">Öltözködésről és lakásról</a>
+1. <a href="#22">Bútorok és tárgyak használata</a>
 1. <a href="#23">A haj vágásáról</a>
 
 ----------
@@ -109,7 +109,15 @@ Tartalomjegyzék
 
 ## 14. <a id="14"></a> Mi a házasság legfontosabb célja? (2. rész)
 
+## 18. <a id="18"></a> Mi a legjobb lelki táplálék az öregkorhoz?
 
+## 19. <a id="19"></a> Az ételről (1. rész)
+
+## 20. <a id="20"></a> Az ételről (2. rész)
+
+## 21. <a id="21"></a> Öltözködésről és lakásról
+
+## 22. <a id="22"></a> Bútorok és tárgyak használata
 
 ## 23. <a id="23"></a> A haj vágásáról
 
