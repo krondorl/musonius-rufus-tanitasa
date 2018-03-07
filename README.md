@@ -109,6 +109,8 @@ Tartalomjegyzék
 
 ## 14. <a id="14"></a> Mi a házasság legfontosabb célja? (2. rész)
 
+Ezért, aki a házasságon gondolkodik, az ne foglalkozzon se a származással, se a vagyonnal, sem bármilyen birtokkal, bármelyik oldalról, sem fizikai tulajdonságokon, sem szépségen. Sem a vagyon, sem a szépség, sem a származás nem hatékony előrejelzés sem a kapcsolatra, sem pedig a gyermekáldásra nézve. De testi tulajdonságok tekintetében a házassághoz elég az egészséges, normális megjelenés, aki képes keményen dolgozni, mert így ellen tud állni a kísértéseknek, jobban tud alkalmazkodni a fizikai munkához, és elég erős a gyermekáldáshoz és a neveléshez. A karakter és lélek tekintetében az az elvárt, hogy önfegyelemhez és igazsághoz szokott, és egy szóval természetesen vonzódik az erényhez. Ezeknek a tulajdonságoknak kell benne lenniük férfiben és nőben egyaránt. De a hasoló gondolkodásmód és karakter hiányában melyik házasság tudna jó lenni a házastársak között, és melyik tudna előnyös lenni? Hogyan tudna két emberi lény alapvetően hasonlítani egymásra lélekben? Vagy hogy lehetne az, hogy az egyik fél, aki jó, harmóniában tudna lenni egy rosszal? Nem jobban, mint amikor egy görbe fadarabkát próbálnánk egy egyeneshez hozzáigazítani, vagy amikor két görbét próbálnánk összerakni egymáshoz. Egy görbéhez egy másik görbét nem lehet igazítani, és még kevésbé az ellentétjét, a görbéhez egy egyenest. Így egy őrült ember nem barátságos egy másik őrülttel, és nem is ért egyet vele, a jóval pedig még kevésbé ért egyet.
+
 ## 15. <a id="15"></a> Hátrány-e a házasság a filozófia tanulásában?
 
 ## 16. <a id="16"></a> Fel kell-e nevelni minden újszülöttet?
